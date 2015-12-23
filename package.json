@@ -1,11 +1,11 @@
 {
-  "name": "Rob-Test-Theme",
+  "name": "Atom-Theme-Happiness",
   "theme": "syntax",
-  "version": "0.0.1",
-  "description": "A short description of your syntax theme",
+  "version": "0.2.0",
+  "description": "A brutally hacked version of the Atom Dark theme",
   "repository": "https://github.com/RobHooper/Atom-Theme-Happiness",
   "license": "MIT",
   "engines": {
-    "atom": ">=0.174.0 <2.0.0"
+    "atom": ">0.50.0"
   }
 }
